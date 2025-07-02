@@ -1,0 +1,9 @@
+ui	name	wl	    A_l	    A_u	    v_guess	sig_guess	free	tied
+0	Hb	    4861.32	0.0	    0.349	100	    100 	d4	t4
+1	OIIIa	5006.77	0.0	    inf	    100	    100 	l	t4
+2	OIIIb	4958.83	0.335	0.335	100 	100 	d1	t4
+3	NIIb	6547.96	0.340	0.340	100	    100 	d5	t4
+4	Ha	    6562.80	0.0	    inf	    100 	100 	l	f
+5	NIIa	6583.34	0.0	    inf	    100 	100 	l	t4
+6	SIIb	6716.31	1.0	    1.0	    100 	100 	d7	t4
+7	SIIa	6730.68	0.0	    inf	    100 	100 	l	t4
